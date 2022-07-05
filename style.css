@@ -1,11 +1,10 @@
 /* para comentar!!! /*/
 
 body {
-  background-image: url(https://photo980x880.mnstatic.com/cd079b6d92449989c10cd1fe2c1c9ebf/faro-les-eclaireurs-68976.jpg)
+  background-image: url();
   background-repeat: no-repeat;
   background-size: contain;
-
-  /*background-color: rgb(238, 150, 91);
+  background-color: rgb(238, 150, 91);
   /* sistema hexa 0-9 A B C D E F /*/
 }
 
