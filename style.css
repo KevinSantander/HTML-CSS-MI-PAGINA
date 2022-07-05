@@ -1,0 +1,41 @@
+/* para comentar!!! /*/
+
+body {
+  background-image: url(https://photo980x880.mnstatic.com/cd079b6d92449989c10cd1fe2c1c9ebf/faro-les-eclaireurs-68976.jpg)
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  /*background-color: rgb(238, 150, 91);
+  /* sistema hexa 0-9 A B C D E F /*/
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+}
+
+h3 {
+  color: darkblue;
+}
+
+ul,
+ol {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+}
+
+ul > li {
+  list-style: none;
+  background-color: darkorange;
+}
+
+ul > a {
+  text-decoration: none;
+}
+
+.liEspecial {
+  font-style: italic;
+}
+.tamaño {
+  font-size: 40px;
+  color: #d41515;
+}
